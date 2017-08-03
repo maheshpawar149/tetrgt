@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-have some change
-=======
-made changes
->>>>>>> branch 'master' of ssh://maheshpawar149@10.20.3.165:29418/tetrgt
+dfasdrsaasdrasd
