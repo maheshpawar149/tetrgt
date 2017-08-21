@@ -1,0 +1,439 @@
+[33mcommit d5c663415b641230cde8714407e1a301a255f6ef[m
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Mon Aug 21 14:54:29 2017 +0530
+
+    No msg
+    
+    Change-Id: I8558d7dfbf8340b2f026d0b38d143c4148f154bf
+
+[33mcommit 576fbdd96f688d9b23408ad5694ec2d6c9636b7f[m
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Mon Aug 21 14:53:16 2017 +0530
+
+    Change-Id: I59ab84ca5be647767b79a61464cb933761270c48
+
+[33mcommit 49f8cd7684fb8fcc9bd3ca743a753df52f62abb0[m
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Mon Aug 21 14:49:59 2017 +0530
+
+    V change
+    
+    Change-Id: If934e1a09700fd02ffe3413b161096cca1bd6187
+    Signed-off-by: Mahesh Pawar <mahesh.pawar149@gmail.com>
+
+[33mcommit 3ca7db0bf6663dd64f0d9cc99ba84142078923fc[m
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Mon Aug 21 14:27:39 2017 +0530
+
+    New File Change2
+    
+    Change-Id: I822b17fd7d160f094c9c50a64f8e6368d90305a5
+    Signed-off-by: Mahesh Pawar <mahesh.pawar149@gmail.com>
+
+[33mcommit 98c806b1e882ae418b4ac668bbf8500d6acee741[m
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Mon Aug 21 14:26:45 2017 +0530
+
+    New File Chamge
+    
+    Change-Id: Idf233b06a560a83d8f0a4b6eea4e0a9f111d7bf4
+
+[33mcommit 3400117a7d50bcfc874437a0c5d582749c982c2d[m
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Mon Aug 21 13:16:35 2017 +0530
+
+    Change
+    
+    Change-Id: I0000000000000000000000000000000000000000
+
+[33mcommit c3de40b38a73486b61d13b3577c6660550426f1d[m
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Mon Aug 21 13:16:04 2017 +0530
+
+    Change-Id: Ifc52b36389bd4a8d8c2d80486769a06d85c56ebd
+    Signed-off-by: Mahesh Pawar <mahesh.pawar149@gmail.com>
+
+[33mcommit 6f5dd51c45fee5c97bedb8b13380451363629b1a[m
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Mon Aug 21 13:06:02 2017 +0530
+
+    fsdfsfdsfsd
+    
+    Change-Id: I629d072621c7b624c015c066b40b99659a2221b8
+
+[33mcommit ef35ba8d5acfee2a1a1184cc00fd77d561171f13[m
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Mon Aug 21 13:05:05 2017 +0530
+
+    Change-Id: I4709bed340d42b491dae14a46445c94a94061c6a
+    Signed-off-by: Mahesh Pawar <mahesh.pawar149@gmail.com>
+
+[33mcommit 429a1775318c3766781b3a0026fb7b133b5e3435[m
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Mon Aug 21 12:50:36 2017 +0530
+
+    new Review reabsed
+    
+    Change-Id: I50c3e78272717dd4405cbaccaf0107ff1519ce10
+    Signed-off-by: Mahesh Pawar <mahesh.pawar149@gmail.com>
+
+[33mcommit 9a46dbb55b4ba3d225e8461f5e86a042c8a7f0ea[m
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Mon Aug 21 12:34:22 2017 +0530
+
+    just this 3 with changes after Submit
+    
+    Change-Id: Icc48572c9fbd52f79672ab19fb131100e6c66d96
+    Signed-off-by: Mahesh Pawar <mahesh.pawar149@gmail.com>
+
+[33mcommit 19703d99215d9fb090650e5d1287d41cf5891dc8[m
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Mon Aug 21 12:34:22 2017 +0530
+
+    just this 3 with changes
+    
+    Change-Id: Icc48572c9fbd52f79672ab19fb131100e6c66d96
+    Signed-off-by: Mahesh Pawar <mahesh.pawar149@gmail.com>
+
+[33mcommit c31510a6191272f2a16f83ca181a18e432388d2f[m
+Merge: bebfa3a f87d54f
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Mon Aug 21 11:40:54 2017 +0530
+
+    Merge branch 'master' of https://github.com/maheshpawar149/tetrgt
+    
+    # Conflicts:
+    #       test2.txt
+    
+    Change-Id: Ic47f85c20e6bb8f1c3f29bdfbee9c8230dc86fa5
+
+[33mcommit f87d54fb16df77dd33f1b5a9726211c1b73e3626[m
+Author: Mahesh PawarGIT <maheshpawar149@localhost>
+Date:   Mon Aug 21 11:21:58 2017 +0530
+
+    Revert "this change"
+    
+    This reverts commit 4659c0122c6f1b1bfc31a408e960d362617db571.
+    
+    Change-Id: I480681a0b7bc8a05019b69eb101ab3a7ec034503
+
+[33mcommit bebfa3a040c7a90dce69480ab3f81decc2c23134[m
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Mon Aug 21 11:18:38 2017 +0530
+
+    Change-Id: Ic7ae36b7e416b20d398f2b2c216a8d70d623f54f
+    Signed-off-by: Mahesh Pawar <mahesh.pawar149@gmail.com>
+
+[33mcommit dba454695636b4e8a117acc128bda3b0d336b6e6[m
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Mon Aug 21 11:14:13 2017 +0530
+
+    OKOK
+    
+    Change-Id: I4a99179db4437058a4152f5ad02b6674cf62c8ff
+    Signed-off-by: Mahesh Pawar <mahesh.pawar149@gmail.com>
+
+[33mcommit 5e83eabbe3ffd57cdb7755919175c2d9f12b88ef[m
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Mon Aug 21 11:07:05 2017 +0530
+
+    Change-Id: I39eced6fd720583c0441d63656426c4bd161e569
+    Signed-off-by: Mahesh Pawar <mahesh.pawar149@gmail.com>
+
+[33mcommit 4bf1352f7725ed16f62f67a31283ec84fb57777d[m
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Mon Aug 21 11:05:49 2017 +0530
+
+    Change-Id: I22a5ca9e8d8b8a669dee9b4731bf2618854f587b
+    Signed-off-by: Mahesh Pawar <mahesh.pawar149@gmail.com>
+
+[33mcommit 9edc4088c39408abc274785d963eee2a225083d5[m
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Mon Aug 21 11:05:23 2017 +0530
+
+    Change-Id: I9837c00e07c90fe958141613a6b9f84fb73fe501
+
+[33mcommit 189a34d03d4194a8bbc6f9dd80da35eb6cad1a93[m
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Mon Aug 21 11:04:46 2017 +0530
+
+    New Change now
+    
+    
+    Change-Id: Ide71eb65c0a465dbbd4a453ce90580caa01c341a
+    Signed-off-by: Mahesh Pawar <mahesh.pawar149@gmail.com>
+
+[33mcommit b92ff52b203127e3a02c260ddcbe8500783ea0e0[m
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Mon Aug 21 11:03:04 2017 +0530
+
+    Change-Id: Ie41e6f950b1f167db6e6ee4495fcce644ebe16df
+    Signed-off-by: Mahesh Pawar <mahesh.pawar149@gmail.com>
+
+[33mcommit e9434654d4bddb458e18d1e3be3a59778b07de1d[m
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Mon Aug 21 11:02:39 2017 +0530
+
+    Change-Id: Ic0fb18c8b1dffcea9b6e693f3dc630cc599b4fff
+    Signed-off-by: Mahesh Pawar <mahesh.pawar149@gmail.com>
+
+[33mcommit bea194901244c72128b836835b920ad1ac70e070[m
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Mon Aug 21 10:47:45 2017 +0530
+
+    this change 2
+    
+    Change-Id: I0be1ee09134be8b63ecd3034572073df33046b6a
+    Signed-off-by: Mahesh Pawar <mahesh.pawar149@gmail.com>
+
+[33mcommit 14c6c7ac838209cdcab00974373c9e63fb8771e1[m
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Mon Aug 21 10:47:45 2017 +0530
+
+    this change
+    
+    Change-Id: I0be1ee09134be8b63ecd3034572073df33046b6a
+    Signed-off-by: Mahesh Pawar <mahesh.pawar149@gmail.com>
+
+[33mcommit 30708e4e62d6617e6c7b751b3c3f805e311308e3[m
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Mon Aug 21 10:41:53 2017 +0530
+
+    OK
+    
+    Change-Id: I4a99179db4437058a4152f5ad02b6674cf62c8ff
+    Signed-off-by: Mahesh Pawar <mahesh.pawar149@gmail.com>
+
+[33mcommit 4fc11b08504a2cb57ea603db7a85243792db070b[m
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Mon Aug 21 10:41:53 2017 +0530
+
+    Change-Id: Ia6808a9f04059dc0e1caff32ce9fd14912beaa9a
+
+[33mcommit 55f38ab7ba52416df78228c7a8ceb704ef6b2435[m
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Mon Aug 21 10:40:53 2017 +0530
+
+    Change-Id: I0baf34339eba69be34890affa896e80e927e19c2
+
+[33mcommit 60f471d80eb1011a0adfc2d87e6a64ebd8bba21d[m
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Mon Aug 21 10:37:50 2017 +0530
+
+    Change-Id: Ic0ff8f26346ce7bc2efa768b46337ee4dab49028
+
+[33mcommit fc97ee434b3bd8d88d1499ca34c3a24c54935729[m
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Fri Aug 18 19:30:31 2017 +0530
+
+    more new changess
+    
+    Change-Id: I2baa792f539777d65a0d139f8488fc5c97427e4a
+    Signed-off-by: Mahesh Pawar <mahesh.pawar149@gmail.com>
+
+[33mcommit 8f6fd0d3e44bb361f90b2477f615dbe4d30643fc[m
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Fri Aug 18 19:29:19 2017 +0530
+
+    # WARNING: head commit changed in the meantime
+    
+    tetrgt started
+    
+    Change-Id: Ic0ff8f26346ce7bc2efa768b46337ee4dab49028
+
+[33mcommit 84586ecacad9c2d587da6227bba3a66c4e0937a0[m
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Fri Aug 18 19:13:59 2017 +0530
+
+    Change-Id: Ic0ff8f26346ce7bc2efa768b46337ee4dab49028
+    Signed-off-by: Mahesh Pawar <mahesh.pawar149@gmail.com>
+
+[33mcommit e038612fb2fe4bea17a8bcc8425cec9edebcf627[m
+Merge: 889604c 48f1302
+Author: Mahesh PawarGIT <maheshpawar149@localhost>
+Date:   Fri Aug 18 18:58:37 2017 +0530
+
+    Merge "Revert "Revert "2nd update"""
+
+[33mcommit 48f1302d5ba08270685a9fc45376a22d501f2ec9[m
+Author: Mahesh PawarGIT <maheshpawar149@localhost>
+Date:   Fri Aug 18 18:58:27 2017 +0530
+
+    Revert "Revert "2nd update""
+    
+    This reverts commit 257747437306ca74d0ca4de0f2af0a706be0bd57.
+    
+    Change-Id: I202ab9b8a50c46789ea13a33c98ab758e9592e30
+
+[33mcommit 889604c74bb5d4ed9604f35550f92e15a3a6f0dc[m
+Merge: b7d2244 2577474
+Author: Mahesh PawarGIT <maheshpawar149@localhost>
+Date:   Fri Aug 18 18:57:55 2017 +0530
+
+    Merge "Revert "2nd update""
+
+[33mcommit 257747437306ca74d0ca4de0f2af0a706be0bd57[m
+Author: Mahesh PawarGIT <maheshpawar149@localhost>
+Date:   Fri Aug 18 18:55:34 2017 +0530
+
+    Revert "2nd update"
+    
+    This reverts commit 9257f9eeb2d98094e6641108d91b9ffdc76334b2.
+    
+    Change-Id: I5988183502c31d2141e53098d1f053c13218f6bc
+
+[33mcommit b7d22443a7c17d9ff0e59371b2f23f2317d67b63[m
+Merge: 1e4fdb0 9257f9e
+Author: Nilesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Fri Aug 18 18:49:59 2017 +0530
+
+    Merge "2nd update"
+
+[33mcommit 9257f9eeb2d98094e6641108d91b9ffdc76334b2[m
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Fri Aug 18 18:23:10 2017 +0530
+
+    2nd update
+    
+    Change-Id: I5c959c43516664b79fbd329140d991ed8be46ad7
+    Signed-off-by: Mahesh Pawar <mahesh.pawar149@gmail.com>
+
+[33mcommit 1e4fdb08778db30f5b23f0df404a3911c6a2372a[m
+Author: Mahesh PawarGIT <maheshpawar149@localhost>
+Date:   Fri Aug 18 18:41:09 2017 +0530
+
+    Revert ""
+    
+    This reverts commit 0f7116974101cbb4c4ba05ce69d604e6879f3455.
+    
+    Change-Id: I05bcb2c750b6535bed4dbbb1c9eed24291aeb0aa
+
+[33mcommit 0f7116974101cbb4c4ba05ce69d604e6879f3455[m
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Fri Aug 18 18:23:10 2017 +0530
+
+    Change-Id: I5c959c43516664b79fbd329140d991ed8be46ad7
+
+[33mcommit ad5d972b0b7307283c3b6b75983770c46a655d8d[m
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Wed Aug 16 20:34:20 2017 +0530
+
+    Change-Id: I27fd7fc436e20ceb70a77def557b23431a4847d5
+    Signed-off-by: Mahesh Pawar <mahesh.pawar149@gmail.com>
+
+[33mcommit 292d0ad36aa83796e4610424655a37980b3b4c16[m
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Fri Aug 4 12:52:26 2017 +0530
+
+    Change-Id: I467f5b2a4c5d8911f95af29794c00a58aa0d7bc8
+
+[33mcommit d2e7a903d0b3fc77b9b262d65c7b57e4f53aa814[m
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Thu Aug 3 18:44:08 2017 +0530
+
+    Change-Id: I5a089a0488855eb38e610e8ad4299bc007e16043
+
+[33mcommit 45d0e54ca611c5fc5b9f9f59dfdd3fc7171489c6[m
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Thu Aug 3 18:42:58 2017 +0530
+
+    Change-Id: I90caa6b375d024ae4b1bbc664130a5220a29ad87
+
+[33mcommit 07c1b47eb7a03fe1ad07ad1251570a7df5a97b0a[m
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Thu Aug 3 18:41:01 2017 +0530
+
+    Change-Id: Ifafa9d977aeb31b3f54eef79640cfc3dee4047ae
+    Signed-off-by: Mahesh Pawar <mahesh.pawar149@gmail.com>
+
+[33mcommit 071f74fa1808ba783dc5be658f2c511ea656e67f[m
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Thu Aug 3 18:35:14 2017 +0530
+
+    Change-Id: I131fa5ad31d02f973a7b15f4429c74bc30594d7f
+
+[33mcommit 5d046c7adc7524d670807e3d102c9e3a6155fd88[m
+Merge: 143bf05 1178861
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Thu Aug 3 18:34:45 2017 +0530
+
+    Merge branch 'master' of ssh://maheshpawar149@10.20.3.165:29418/tetrgt
+    
+    Conflicts:
+            test2.txt
+    
+    Change-Id: I7391873b05cacde2847576c6b75e8ff59d9e070b
+
+[33mcommit 143bf05ea4f826cd5009c32a583825c55a050d69[m
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Thu Aug 3 18:30:05 2017 +0530
+
+    Change-Id: I48906e2e2e7b9a32b45f9c3a3a73b0a8c6d9fc3b
+
+[33mcommit 4cfb32703e3107deface3ab6d95cc469d57ee743[m
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Thu Aug 3 18:29:35 2017 +0530
+
+    with some more change
+    
+    Change-Id: I2342a5f0fca8e4532e72d0bf6e4e86af1a011828
+    Signed-off-by: Mahesh Pawar <mahesh.pawar149@gmail.com>
+
+[33mcommit 2d13c57e656420d2dabba6344c2e865404d3b6ef[m
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Thu Aug 3 16:20:07 2017 +0530
+
+    made change from Eclipse
+    
+    
+    
+    Change-Id: I677681916069e53da62ff45a2833f47f8876fe09
+    Signed-off-by: Mahesh Pawar <mahesh.pawar149@gmail.com>
+
+[33mcommit 117886155ac74c407afe1a85cca164c733249364[m
+Author: Mahesh Pawar <mahesh.pawar149@gmail.com>
+Date:   Thu Aug 3 16:20:07 2017 +0530
+
+    made change from Eclipse
+
+[33mcommit 8e120015642509eb7a115ce29cb3f001adfdaf84[m
+Author: pawar_m <mahesh.pawar149.com>
+Date:   Mon Jul 24 16:23:28 2017 +0530
+
+    Edit by Kumarjit
+
+[33mcommit fc27224b0d4f007aaa1117d30df6774341370fc4[m
+Author: pawar_m <mahesh.pawar149.com>
+Date:   Mon Jul 24 15:29:17 2017 +0530
+
+    TEST4
+
+[33mcommit 6009e987dde3f0fa0b8320041a9c155f97bf4716[m
+Author: pawar_m <mahesh.pawar149.com>
+Date:   Mon Jul 24 12:29:53 2017 +0530
+
+    chcek for reviwer
+
+[33mcommit 7a76c4db2d6bfee36f1d63e3a1e47432600b69ac[m
+Author: pawar_m <mahesh.pawar149.com>
+Date:   Fri Jul 21 12:47:10 2017 +0530
+
+    Changing testfile.txt 12:47
+
+[33mcommit 927b344bf86650a9d67593bfaa4f878283dfc22d[m
+Author: pawar_m <mahesh.pawar149.com>
+Date:   Fri Jul 21 12:40:03 2017 +0530
+
+    Testing @2istJuly 12:30
+
+[33mcommit 6db6a8eb59c444fbf56718fe5b6402eeb92f0d56[m
+Author: Mahesh Pawar <mahesh.pawar@xoriant.com>
+Date:   Mon Jul 17 19:07:51 2017 +0530
+
+    adding new file test2.txt
+
+[33mcommit c268c3052bb6a83963481e314d9d1bc6e6a7e649[m
+Author: Mahesh Pawar <mahesh.pawar@xoriant.com>
+Date:   Mon Jul 17 15:38:08 2017 +0530
+
+    First Commit msg
